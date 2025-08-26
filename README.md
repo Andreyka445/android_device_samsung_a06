@@ -1,1 +1,1 @@
-# device_twrp_a06
+Device config for Samsung Galaxy A06 
